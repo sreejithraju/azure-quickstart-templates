@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "sreejithraju"
+      "value": "GENUSER"
     },
     "adminPassword": {
-      "value": "password@123456"
+      "value": "GENPASSWORD@123"
     },
     "dnsLabelPrefix": {
-      "value": "sreejithrajuvms"
+      "value": "Sreejih023444"
     }
   }
 }
